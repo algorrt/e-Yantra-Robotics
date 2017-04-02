@@ -8,6 +8,7 @@
  * Global Variables: None
  */
 #include "predef.c"
+#include "lcd.c"
 
 				
 /*
