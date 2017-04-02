@@ -9,12 +9,15 @@ An initiative by IIT Bombay that aims to create the next generation of embedded 
 
 
 Themes in e-YRC 2014-15 : 6
-        Cargo Alignment
-        Cargo Sorting
-        Fire Fighting
-        Warehouse Management
-        Waste Segregation
+
+        Cargo Alignment        
+        Cargo Sorting        
+        Fire Fighting        
+        Warehouse Management        
+        Waste Segregation        
         Caretaker Robot (eYRC+)
+        
 
 Finals : 4th in 3107 teams in India
+
 Here's a task video : https://www.youtube.com/watch?v=V6a7zQSzauk
